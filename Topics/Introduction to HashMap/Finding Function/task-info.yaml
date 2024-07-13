@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <code>containsKey(K)</code>
+  - text: "<code>getOrDefault(K,V)</code>"
+  - text: <code>containsValue(V)</code>
+  - text: <code>get(K)</code>
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/25739#comment
+status: Solved
+record: -1
+local_check: false
